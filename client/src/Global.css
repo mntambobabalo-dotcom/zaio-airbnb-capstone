@@ -1,0 +1,57 @@
+/* =========================
+   GLOBAL
+========================= */
+
+:root {
+    font-family: Inter, Arial, sans-serif;
+    color: #111827;
+    background: #fff;
+    font-synthesis: none;
+    --airbnb: #de3151;
+    --rose: #e93355;
+    --text: #111827;
+    --muted: #6b7280;
+    --border: #e5e7eb;
+    --soft: #f9fafb;
+    --shadow: 0 4px 8px rgba(31, 41, 55, 0.12);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    min-width: 320px;
+}
+
+button, input, select {
+    font: inherit;
+}
+
+button, a {
+    -webkit-tap-highlight-color: transparent;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+.page-shell {
+    width: min(1280px, calc(100% - 48px));
+    margin-inline: auto;
+}

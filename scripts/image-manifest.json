@@ -1,0 +1,206 @@
+[
+  {
+    "name": "hero",
+    "localPath": "/images/hero.jpg",
+    "sourcePage": "https://www.airbnb.com/sandton-south-africa/stays",
+    "downloadUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6Mzc5MjQ0MzE=/original/50304440-b57f-4b07-b4d9-562a98da5e07.jpeg?im_w=1440",
+    "alt": "A serene garden is depicted, featuring a spacious patio with glass stack-away doors. Comfortable seating is arranged, surrounded by lush greenery and colorful flowers. The scene is complemented by a soft sunset glow, creating a tranquil outdoor space perfect for relaxation.",
+    "bytes": 440184,
+    "sha256": "39f62defb809cd2f3a7b1ec7295d5d27e6d3a3a3fe6998c46b9e34f74eab390a"
+  },
+  {
+    "name": "city-sandton",
+    "localPath": "/images/city-sandton.jpg",
+    "sourcePage": "https://www.airbnb.com/sandton-south-africa/stays",
+    "downloadUrl": "https://a0.muscache.com/im/pictures/INTERNAL/INTERNAL-ImageByPlaceId-ChIJFwX0y5hzlR4RTLcevyG9-A0-large_background/original/f6e0b0db-62c7-436f-bffa-7ada7ecb0487.jpeg",
+    "alt": "",
+    "bytes": 338025,
+    "sha256": "f623c2f76feb81b7a37425c54077887c5dd0daf873048ef1fb2e15005afbdc8c"
+  },
+  {
+    "name": "gift-cards",
+    "localPath": "/images/gift-cards.png",
+    "sourcePage": "https://www.airbnb.com/giftcards",
+    "downloadUrl": "https://a0.muscache.com/im/pictures/canvas/Canvas-1761854076633/original/a6477acb-63ca-414e-b651-ff9edc0215bc.png?im_w=720",
+    "alt": "",
+    "bytes": 190012,
+    "sha256": "8c7f149c81bdfbc687d7c370d84077b467bef97ac7714829457a8ca9e24f1ab1"
+  },
+  {
+    "name": "hosting",
+    "localPath": "/images/hosting.png",
+    "sourcePage": "https://www.airbnb.com/host/homes",
+    "downloadUrl": "https://a0.muscache.com/im/pictures/canvas/Canvas-1781545657497/original/ea63d687-31e7-4d78-8db0-b35e560fdb5e.png?im_w=1440",
+    "alt": "A person stands outside a house with a glass door, holding a railing and smiling in the sun.",
+    "bytes": 1710562,
+    "sha256": "2fcd32220e2806dc5c854f00e47ec12a1948b7c02137ad0b8cfca3efe52ec41b"
+  },
+  {
+    "name": "bedroom",
+    "localPath": "/images/bedroom.jpg",
+    "sourcePage": "https://www.airbnb.com/rooms/33819053",
+    "downloadUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-33819053/original/ff471aaa-a85e-46bb-b7ea-4d6ff5abaec4.jpeg?im_w=720",
+    "alt": "Bedroom",
+    "bytes": 35882,
+    "sha256": "411b78e32a39a0157854fbf80dbba0c841a63994133865cc26ac75906c4a71bd"
+  },
+  {
+    "name": "search-bordeaux",
+    "localPath": "/images/search-bordeaux.jpg",
+    "sourcePage": "https://www.airbnb.com/rooms/33819053",
+    "downloadUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-33819053/original/19da4c81-e640-4f6c-a32e-8ecb962e7db1.jpeg?im_w=720",
+    "alt": "",
+    "bytes": 44955,
+    "sha256": "4d6c9bd56209c32fdefa5331c5666d314a9f8a1dfd144ccb2ba26da45abccaad"
+  },
+  {
+    "name": "search-waterfront",
+    "localPath": "/images/search-waterfront.jpg",
+    "sourcePage": "https://www.airbnb.com/bordeaux-france/stays",
+    "downloadUrl": "https://a0.muscache.com/im/pictures/bfaeb74d-382b-4549-841b-a1c8e8c51fa7.jpg",
+    "alt": "A bright and airy living space features large windows allowing natural light to fill the room. A soft gray sofa is positioned near a gold coffee table, complemented by a yellow accent chair. A decorative ladder and art piece enhance the charming ambiance.",
+    "bytes": 162812,
+    "sha256": "a8c6cffb862ac9edd4c527edd1fa9cc5bcad4612d1c6af9b21498f2f794abd9d"
+  },
+  {
+    "name": "search-historic",
+    "localPath": "/images/search-historic.jpg",
+    "sourcePage": "https://www.airbnb.com/rooms/837319689549319984",
+    "downloadUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6ODM3MzE5Njg5NTQ5MzE5OTg0/original/dc3005fd-5fb8-408b-b7c0-786767095d00.jpeg?im_w=720",
+    "alt": "",
+    "bytes": 85180,
+    "sha256": "0f1e6db6ce9faff12ee0367ceaca29a3016f425fa916f69a40d6a6068f5360e9"
+  },
+  {
+    "name": "gallery-1",
+    "localPath": "/images/gallery-1.jpg",
+    "sourcePage": "https://www.airbnb.com/rooms/33819053",
+    "downloadUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-33819053/original/19da4c81-e640-4f6c-a32e-8ecb962e7db1.jpeg?im_w=720",
+    "alt": "",
+    "bytes": 44955,
+    "sha256": "4d6c9bd56209c32fdefa5331c5666d314a9f8a1dfd144ccb2ba26da45abccaad"
+  },
+  {
+    "name": "gallery-2",
+    "localPath": "/images/gallery-2.jpg",
+    "sourcePage": "https://www.airbnb.com/rooms/33819053",
+    "downloadUrl": "https://a0.muscache.com/im/pictures/8cf190e0-8c22-408e-80b7-2f5801dd67e4.jpg?im_w=720",
+    "alt": "",
+    "bytes": 75972,
+    "sha256": "ddb73d6674bf39438672eeb422046652396d2a749d36b954ce5dc9f295123e01"
+  },
+  {
+    "name": "gallery-3",
+    "localPath": "/images/gallery-3.jpg",
+    "sourcePage": "https://www.airbnb.com/rooms/33819053",
+    "downloadUrl": "https://a0.muscache.com/im/pictures/73ace108-50a3-4095-8abc-8defedc135f7.jpg?im_w=720",
+    "alt": "",
+    "bytes": 40046,
+    "sha256": "7ac8b8cc6a91c4743775e44e885e150364626b3b7340ae84a3e82edf6e13afe6"
+  },
+  {
+    "name": "gallery-4",
+    "localPath": "/images/gallery-4.jpg",
+    "sourcePage": "https://www.airbnb.com/rooms/33819053",
+    "downloadUrl": "https://a0.muscache.com/im/pictures/1a764a31-38e6-4b88-9114-c5183363792c.jpg?im_w=720",
+    "alt": "",
+    "bytes": 46471,
+    "sha256": "81b9b159c32a173680e51b3f47f26bcf3fc8fbbd2b370f55ebef633e047af8a2"
+  },
+  {
+    "name": "gallery-5",
+    "localPath": "/images/gallery-5.jpg",
+    "sourcePage": "https://www.airbnb.com/rooms/33819053",
+    "downloadUrl": "https://a0.muscache.com/im/pictures/6497532b-2e5d-4edb-8485-7cb9125cf906.jpg?im_w=720",
+    "alt": "",
+    "bytes": 53435,
+    "sha256": "0d22170c84af6e5bcd72769bd63ffd104411d2c01594bf82cb80ccef2f65b53c"
+  },
+  {
+    "name": "experience-trip",
+    "localPath": "/images/experience-trip.jpg",
+    "sourcePage": "https://news.airbnb.com/hiking-around-the-world-with-airbnb/",
+    "downloadUrl": "https://news-assets.withairbnb.com/wp-content/uploads/sites/21/2018/04/161212-Seasonal_Q3-Field-2219-1.jpg?quality=75&w=2560",
+    "alt": "",
+    "bytes": 608603,
+    "sha256": "3b7aa29ed67481284d9b06fe45ca081f40cb40cdd730b992ec56f4b5e937132c"
+  },
+  {
+    "name": "experience-home",
+    "localPath": "/images/experience-home.jpg",
+    "sourcePage": "https://news.airbnb.com/airbnb-launches-online-cooking-experiences-with-award-winning-chefs/",
+    "downloadUrl": "https://news-assets.withairbnb.com/wp-content/uploads/sites/21/2020/06/Chef-David-Chang-Edit-Featured.jpg?quality=75&w=2560",
+    "alt": "Chef David Chang",
+    "bytes": 263950,
+    "sha256": "10d6e49d5bb1960ce1b4d851db552ed9c827c3af6fd84a7704b7f1d6d73ef34d"
+  },
+  {
+    "name": "city-joburg",
+    "localPath": "/images/city-joburg.jpg",
+    "sourcePage": "https://www.airbnb.com/johannesburg-south-africa/stays",
+    "downloadUrl": "https://a0.muscache.com/im/pictures/INTERNAL/INTERNAL-ImageByPlaceId-ChIJUWpA8GgMlR4RQUDTsdnJiiM-large_background/original/2fbe0237-8e82-4704-a736-b58f5cff607c.jpeg",
+    "alt": "",
+    "bytes": 230875,
+    "sha256": "0d52e0547e35ca4421f77c7f485a3778504eb932702b6211a0abbc950411bdb0"
+  },
+  {
+    "name": "city-hyde-park",
+    "localPath": "/images/city-hyde-park.jpg",
+    "sourcePage": "https://www.airbnb.com/rooms/1340333868272007732",
+    "downloadUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM0MDMzMzg2ODI3MjAwNzczMg%3D%3D/original/aef10cb3-a656-4bfc-a061-7b1dc89c2022.jpeg?im_w=720",
+    "alt": "",
+    "bytes": 53040,
+    "sha256": "bc76b2dd1d098d0237d08babf350e4c2c7d7719598b6c0ec67639d53fb6fcb63"
+  },
+  {
+    "name": "city-woodmead",
+    "localPath": "/images/city-woodmead.jpg",
+    "sourcePage": "https://www.airbnb.com/rooms/46273035",
+    "downloadUrl": "https://a0.muscache.com/im/pictures/c6678f46-d524-4200-990f-b9374c6c4c6e.jpg?im_w=720",
+    "alt": "",
+    "bytes": 27234,
+    "sha256": "d0b9a455a3de162f66fff6792a35a6d5d5b3174cd5fe86ec207cadb0f9a5ef4c"
+  },
+  {
+    "name": "logo-light",
+    "localPath": "/images/logo-light.svg",
+    "sourcePage": "https://www.airbnb.com/",
+    "sha256": "59c7b2c70ab60e86848bc1784310b4f59364ed1952fac2d7d830edaa80c05c87"
+  },
+  {
+    "name": "logo-dark",
+    "localPath": "/images/logo-dark.svg",
+    "sourcePage": "https://www.airbnb.com/",
+    "sha256": "a8a9ecc19c15c56decf5dba8f5c6786a87cb39b16cc93085c23f03f315cfb60e"
+  },
+  {
+    "name": "globe-light",
+    "localPath": "/images/globe-light.svg",
+    "sourcePage": "https://www.airbnb.com/",
+    "sha256": "826157cfd75156536ec2f22db78c9e2f6b869111aa8209d0a8a059ca4a7c20e1"
+  },
+  {
+    "name": "globe-dark",
+    "localPath": "/images/globe-dark.svg",
+    "sourcePage": "https://www.airbnb.com/",
+    "sha256": "3531710369d83e461014315818a9046d3f7c2a6c8d5cf0fcecb84542dcf25cc5"
+  },
+  {
+    "name": "menu",
+    "localPath": "/images/menu.svg",
+    "sourcePage": "https://www.airbnb.com/",
+    "sha256": "4320450bfa91a817b57648dc8f936ea6cd8c5b2d7ca3ec74ecae483a37b640f4"
+  },
+  {
+    "name": "avatar",
+    "localPath": "/images/avatar.svg",
+    "sourcePage": "Local interface icon",
+    "sha256": "d28805e6a2b4ff4ce82b6af546e275f5d340879edbe6077348055bd18455494b"
+  },
+  {
+    "name": "search",
+    "localPath": "/images/search.svg",
+    "sourcePage": "Local interface icon",
+    "sha256": "9fbdafca9e20185774b78df83a7abb2c80b82d93825aa0f9d55a6e31a1845a4f"
+  }
+]

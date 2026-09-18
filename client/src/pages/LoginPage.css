@@ -1,0 +1,94 @@
+/* =========================
+   LOGIN PAGE
+========================= */
+
+.auth-page {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    padding: 80px 24px;
+    background: #f7f7f7;
+    position: relative;
+}
+
+.auth-brand {
+    position: absolute;
+    top: 28px;
+    left: 36px;
+    color: var(--airbnb);
+    font-size: 29px;
+    font-weight: 700;
+    letter-spacing: -1.5px;
+}
+
+.auth-card {
+    width: min(480px, 100%);
+    padding: 38px;
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    background: #fff;
+    box-shadow: 0 20px 60px rgba(17,24,39,.1);
+}
+
+.auth-card h1 {
+    margin: 0 0 8px;
+    font-size: 30px;
+}
+
+.auth-card > p {
+    margin: 0 0 28px;
+    color: var(--muted);
+    line-height: 1.5;
+}
+
+.auth-card form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.auth-card label, .listing-form label {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+
+.auth-card label span, .listing-form label span {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.auth-card input, .listing-form input, .listing-form select, .listing-form textarea {
+    width: 100%;
+    padding: 12px 13px;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    background: #fff;
+    color: var(--text);
+    outline: 0;
+}
+
+.auth-card input:focus, .listing-form input:focus, .listing-form select:focus, .listing-form textarea:focus {
+    border-color: #111;
+    box-shadow: 0 0 0 1px #111;
+}
+
+.auth-switch {
+    width: 100%;
+    margin-top: 18px;
+    padding: 8px;
+    border: 0;
+    background: none;
+    text-decoration: underline;
+}
+
+.demo-login {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-top: 24px;
+    padding: 14px;
+    border-radius: 8px;
+    background: var(--soft);
+    font-size: 13px;
+}

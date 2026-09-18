@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+/* =========================
+   AIRBNB STYLES
+========================= */
+
+@import "./Global.css";
+@import "./components/Header.css";
+@import "./components/SearchBar.css";
+@import "./pages/HomePage.css";
+@import "./components/Footer.css";
+@import "./pages/SearchPage.css";
+@import "./pages/ListingPage.css";
+@import "./pages/ReservationsPage.css";
+@import "./components/ProtectedRoute.css";
+@import "./Shared.css";
+@import "./pages/LoginPage.css";
+@import "./components/AdminLayout.css";
+@import "./pages/admin/Admin.css";
+@import "./Responsive.css";

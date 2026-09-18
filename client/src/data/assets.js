@@ -1,0 +1,30 @@
+// Local image and interface assets used across the Airbnb clone.
+export const assets = {
+  logoLight: "/images/logo-light.svg",
+  logoDark: "/images/logo-dark.svg",
+  globeLight: "/images/globe-light.svg",
+  globeDark: "/images/globe-dark.svg",
+  menu: "/images/menu.svg",
+  avatar: "/images/avatar.svg",
+  search: "/images/search.svg",
+  hero: "/images/hero.jpg",
+  city: [
+    "/images/city-sandton.jpg",
+    "/images/city-joburg.jpg",
+    "/images/city-woodmead.jpg",
+    "/images/city-hyde-park.jpg",
+  ],
+  experienceTrip: "/images/experience-trip.jpg",
+  experienceHome: "/images/experience-home.jpg",
+  giftCards: "/images/gift-cards.png",
+  hosting: "/images/hosting.png",
+  listingGallery: [
+    "/images/gallery-1.jpg",
+    "/images/gallery-2.jpg",
+    "/images/gallery-3.jpg",
+    "/images/gallery-4.jpg",
+    "/images/gallery-5.jpg",
+  ],
+  bedroom: "/images/bedroom.jpg",
+  hostAvatar: "/images/avatar.svg",
+};

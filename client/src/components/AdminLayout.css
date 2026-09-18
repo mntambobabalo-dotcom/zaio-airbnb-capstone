@@ -1,0 +1,83 @@
+/* =========================
+   ADMIN LAYOUT
+========================= */
+
+.admin-app {
+    min-height: 100vh;
+    display: grid;
+    grid-template: 72px 1fr / 230px minmax(0, 1fr);
+    background: #f7f7f7;
+}
+
+.admin-topbar {
+    grid-column: 1 / -1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    border-bottom: 1px solid var(--border);
+    background: #fff;
+    z-index: 2;
+}
+
+.admin-brand {
+    color: var(--airbnb);
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: -1px;
+}
+
+.admin-brand span {
+    margin-left: 10px;
+    color: var(--muted);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    text-transform: uppercase;
+}
+
+.admin-topbar > div {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    font-size: 14px;
+}
+
+.admin-topbar button {
+    padding: 8px 13px;
+    border: 1px solid var(--border);
+    border-radius: 7px;
+    background: #fff;
+}
+
+.admin-sidebar {
+    padding: 28px 18px;
+    border-right: 1px solid var(--border);
+    background: #fff;
+}
+
+.admin-sidebar nav {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    position: sticky;
+    top: 28px;
+}
+
+.admin-sidebar a {
+    padding: 11px 13px;
+    border-radius: 8px;
+    color: #4b5563;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.admin-sidebar a:hover, .admin-sidebar a.active {
+    background: #fff1f2;
+    color: var(--airbnb);
+}
+
+.admin-content {
+    min-width: 0;
+    padding: 42px;
+}

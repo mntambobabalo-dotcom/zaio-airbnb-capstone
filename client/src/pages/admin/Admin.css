@@ -1,0 +1,191 @@
+/* =========================
+   ADMIN PAGES
+========================= */
+
+.admin-page-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    margin-bottom: 28px;
+}
+
+.admin-page-heading p {
+    margin: 0 0 7px;
+    color: var(--muted);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+}
+
+.admin-page-heading h1 {
+    margin: 0;
+    font-size: 32px;
+}
+
+.admin-page-heading > a:not(.admin-primary-button) {
+    text-decoration: underline;
+}
+
+.admin-primary-button {
+    display: inline-block;
+    padding: 11px 17px;
+    border: 0;
+    border-radius: 8px;
+    background: var(--airbnb);
+    color: #fff;
+    font-weight: 600;
+}
+
+.admin-alert--error {
+    border: 1px solid #fecaca;
+    background: #fef2f2;
+    color: #b91c1c;
+}
+
+.admin-alert--success {
+    border: 1px solid #a7f3d0;
+    background: #ecfdf5;
+    color: #047857;
+}
+
+.admin-empty {
+    padding: 48px;
+    border: 1px dashed #d1d5db;
+    border-radius: 12px;
+    background: #fff;
+    text-align: center;
+}
+
+.admin-empty p {
+    color: var(--muted);
+}
+
+.admin-empty a {
+    color: var(--airbnb);
+    text-decoration: underline;
+}
+
+.admin-table-wrap {
+    overflow-x: auto;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    background: #fff;
+}
+
+.admin-table {
+    min-width: 850px;
+}
+
+.admin-table th {
+    color: var(--muted);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.admin-table td {
+    font-size: 13px;
+}
+
+.admin-table td small {
+    display: block;
+    margin-top: 3px;
+    color: var(--muted);
+}
+
+.listing-cell {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    min-width: 210px;
+}
+
+.listing-cell img, .listing-thumb-placeholder {
+    width: 58px;
+    height: 44px;
+    flex: 0 0 auto;
+    border-radius: 6px;
+    background: #e5e7eb;
+    object-fit: cover;
+}
+
+.table-actions {
+    display: flex;
+    gap: 7px;
+}
+
+.table-actions a, .table-actions button, .admin-table .text-danger {
+    padding: 7px 10px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: #fff;
+    color: #374151;
+    font-size: 12px;
+}
+
+.table-actions button, .admin-table .text-danger {
+    border-color: #fecaca;
+    color: #b91c1c;
+}
+
+.listing-form {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+}
+
+.listing-form section {
+    padding: 26px;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    background: #fff;
+}
+
+.listing-form h2 {
+    margin: 0 0 22px;
+    font-size: 18px;
+}
+
+.form-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 18px;
+}
+
+.form-grid--four {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.form-grid--five {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.form-grid .span-two {
+    grid-column: 1 / -1;
+}
+
+.listing-form .checkbox-label {
+    flex-direction: row;
+    align-items: center;
+    gap: 9px;
+    font-size: 14px;
+}
+
+.listing-form .checkbox-label input {
+    width: auto;
+    accent-color: var(--airbnb);
+}
+
+.form-actions {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 18px;
+    padding-bottom: 24px;
+}
+
+.form-actions > a {
+    text-decoration: underline;
+}
