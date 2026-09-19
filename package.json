@@ -1,0 +1,14 @@
+{
+  "name": "zaio-airbnb-capstone",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:all": "npm ci --prefix server && npm ci --prefix client",
+    "build": "npm run build --prefix client",
+    "heroku-postbuild": "npm run install:all && npm run build",
+    "start": "npm start --prefix server"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}
